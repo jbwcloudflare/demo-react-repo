@@ -13,7 +13,8 @@
 	},
 	"dependencies": {
 		"react": "^19.1.1",
-		"react-dom": "^19.1.1"
+		"react-dom": "^19.1.1",
+		"wrangler": "file:./tmp.tgz"
 	},
 	"devDependencies": {
 		"@cloudflare/vite-plugin": "^1.22.1",
@@ -27,7 +28,6 @@
 		"globals": "^16.3.0",
 		"typescript": "~5.8.3",
 		"typescript-eslint": "^8.39.1",
-		"vite": "^7.1.2",
-		"wrangler": "file:./wrangler.tgz"
+		"vite": "^7.1.2"
 	}
 }
