@@ -14,7 +14,7 @@
 	"dependencies": {
 		"react": "^19.1.1",
 		"react-dom": "^19.1.1",
-		"wrangler": "file:./tmp.tgz"
+		"wrangler": "https://pub-6b60fc5d3ce1402c833de3461f5cfdf2.r2.dev/wrangler-preview.tgz"
 	},
 	"devDependencies": {
 		"@cloudflare/vite-plugin": "^1.22.1",

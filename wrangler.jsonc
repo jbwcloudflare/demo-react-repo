@@ -8,10 +8,6 @@
 	"account_id": "2e4b6cf8ee5f887f9d85697fc774351d",
 	"main": "worker/index.ts",
 	"compatibility_date": "2026-01-28",
-	"assets": {
-		"not_found_handling": "single-page-application",
-		"directory": "dist/client"
-	},
 	"observability": {
 		"enabled": true
 	}
